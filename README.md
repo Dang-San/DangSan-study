@@ -8,6 +8,7 @@
 
 
 ## Members
-|예린|은서|
-|:--:|:--:|
-|[@Yerineee](https://github.com/Yerineee)|[@eunseo22mv](https://github.com/eunseo22mv)|
+
+|[예린](https://github.com/Yerineee)|[은서](https://github.com/eunseo22mv)|
+|---|---|
+|<img src="https://github.com/Yerineee.png" width="95px">|<img src ="https://github.com/eunseo22mv.png" width="90px">|
